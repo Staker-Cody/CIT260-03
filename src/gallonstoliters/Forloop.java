@@ -34,7 +34,6 @@ int y;
     
        System.out.println("enter the number of times you want this loop to run.");
         Scanner input = new Scanner(System.in);
-        System.out.println("enter the number of times you want this loop to run.");
         this.number = input.next();
           this.y = Integer.parseInt(number);
           while(y < 0){
